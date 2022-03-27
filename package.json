@@ -4,7 +4,8 @@
   "description": "Goal setter app for you",
   "main": "server.js",
   "scripts": {
-    "start": "node backend/server.js"
+    "start": "node backend/server.js",
+    "server": "nodemon backend/server.js"
   },
   "author": "",
   "license": "ISC",
